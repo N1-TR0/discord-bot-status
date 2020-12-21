@@ -6,4 +6,6 @@ then put your twitch url and bot token in index.js
 
 then `node index.js`
 
+`npm install discord.js`
+
 you are all set
